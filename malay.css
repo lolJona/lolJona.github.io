@@ -107,7 +107,7 @@ a {
   padding: 14px;
 }
 
-.products {
+.lessons {
   background: #EEEFF1;
   box-sizing: border-box;
   width: 90%;
@@ -116,14 +116,14 @@ a {
   text-align: center;
 }
 
-.product {
+.lesson {
   display: inline-block;
   margin: 0px 2% 80px 2%;
   text-align: center;
   width: 45%;
 }
 
-.product img {
+.lesson img {
   width: 100%;
 }
 
