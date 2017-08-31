@@ -25,6 +25,18 @@ body {
   z-index: 10000;
 }
 
+.sidebar {
+  
+background-color: rgba(255, 255, 255, 0.9);
+  overflow-y: auto;
+  position: fixed;
+  left: 0;
+  top: 150px;
+  text-align: center;
+  width: 15%;
+  z-index: 9999;
+}
+
 ul {
   padding: 0;
 }
