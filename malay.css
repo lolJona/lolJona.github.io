@@ -39,9 +39,12 @@ background-color: rgba(255, 255, 255, 0.9);
 
 
 #copy{
-	     border: 1px;
-	     margin: 10px;
-	     clear: both;
+
+	height: 200px;
+	width: 600px;
+	border: 1px;
+	margin: 10px;
+	clear: both;
 }
 
 ul {
