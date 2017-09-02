@@ -59,6 +59,10 @@ li {
 #footer {
   border: 1px black solid;
   float: left;
+  padding-top: 10px;
+  padding-bottom: 0px;
+  position:fixed;
+  bottom:0;
   width: 100%;
   clear: both;
   text-align: center;
