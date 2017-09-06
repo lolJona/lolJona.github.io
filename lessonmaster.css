@@ -4,6 +4,7 @@
   position: fixed;
   left: 0;
   top: 0;
+  padding-bottom: 1px;
   clear: both;
   text-align: center;
   width: 100%;
